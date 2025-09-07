@@ -1,0 +1,15 @@
+
+<svg viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main brand text -->
+  <text x="200" y="50" font-family="serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2c3e50">
+    Whizzyware
+  </text>
+  
+  <!-- Subtitle text -->
+  <text x="200" y="80" font-family="serif" font-size="18" font-style="italic" text-anchor="middle" fill="#e74c3c">
+    Delicacy
+  </text>
+  
+  <!-- Simple decorative underline -->
+  <line x1="120" y1="90" x2="280" y2="90" stroke="#f39c12" stroke-width="2"/>
+</svg>
